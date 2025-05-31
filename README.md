@@ -1,4 +1,4 @@
-# 📄 README.md - Documentação do Projeto de Alocação em FIIs
+# 📄 Documentação do Projeto de Alocação em FIIs
 ## 📌 Descrição Geral
 Este projeto consiste em uma planilha que organiza e categoriza diferentes tipos de Fundos de Investimento Imobiliário (FIIs) para perfis conservadores de investidores, associando percentuais recomendados para cada categoria. A estruturação permite análises rápidas e aplicação em estratégias de alocação de carteira.
 
@@ -40,5 +40,3 @@ Utilize Microsoft Excel, Google Sheets ou LibreOffice Calc.
 # Editar os percentuais:
 Ajuste os percentuais na coluna % conforme o perfil desejado.
 
-# Anotações:
-Use as colunas adicionais (Unnamed) para incluir cálculos, simulações ou notas.
